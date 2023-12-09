@@ -1,5 +1,5 @@
 # Hi, I'm Zaga 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
+Senior Software Engineer with more than 6 years of commertial experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
@@ -18,7 +18,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:e.zag2016@gmail.com'>e.zag2016@gmail.com</a>
 </p>
 
 
