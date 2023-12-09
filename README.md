@@ -10,14 +10,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
+
    📫 How to reach me: <a href='mailto:e.zag2016@gmail.com'>e.zag2016@gmail.com</a>
 </p>
 
