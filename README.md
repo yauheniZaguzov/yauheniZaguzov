@@ -1,4 +1,4 @@
-# Hi, I'm Zaga 👋
+# Hi, I'm Zaga Yauheni👋
 Senior Software Engineer with more than 6 years of commertial experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
